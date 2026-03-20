@@ -18,8 +18,8 @@ const spaceGrotesk = Space_Grotesk({
 });
 
 export const metadata: Metadata = {
-  title: 'SOLO | O modelo de negócio solo',
-  description: 'O modelo de negócio solo que começa pelos seus limites inegociáveis, não pelas modinhas do mercado.',
+  title: 'SOLO | Crie um negócio simples, lucrativo e sem operação inchada',
+  description: 'Aprenda a estruturar um negócio solo com tese, promessa, método e produtos, sem operação inchada, conteúdo solto ou ofertas confusas.',
 };
 
 export default function RootLayout({children}: {children: React.ReactNode}) {

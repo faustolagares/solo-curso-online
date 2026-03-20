@@ -579,8 +579,10 @@ export default function Home() {
             </div>
 
             <Link 
-              href="#" 
+              href="https://chk.eduzz.com/8WPNONOY0P" 
               className="block w-full border-2 border-accent bg-accent text-white text-center py-5 text-lg font-mono font-bold uppercase tracking-widest hover:bg-white hover:text-accent transition-colors duration-300 mb-4"
+              target="_blank"
+              rel="noopener noreferrer"
             >
               [ CONFIRMAR ACESSO ]
             </Link>
