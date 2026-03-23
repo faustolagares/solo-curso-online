@@ -57,7 +57,7 @@ export default function RootLayout({children}: {children: React.ReactNode}) {
       </head>
       <body className="font-sans antialiased bg-white text-gray-900" suppressHydrationWarning>
         <noscript>
-          <img height="1" width="1" style="display:none"
+          <img height="1" width="1" style={{ display: 'none' }}
             src="https://www.facebook.com/tr?id=1552487645813151&ev=PageView&noscript=1"
             />
         </noscript>
