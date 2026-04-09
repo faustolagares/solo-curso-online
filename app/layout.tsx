@@ -48,8 +48,8 @@ export default function RootLayout({children}: {children: React.ReactNode}) {
             t.src=v;s=b.getElementsByTagName(e)[0];
             s.parentNode.insertBefore(t,s)}(window, document,'script',
             'https://connect.facebook.net/en_US/fbevents.js');
-            fbq('init', '1552487645813151');
-            fbq('track', 'PageView');            
+            fbq('init', '2412593309204023');
+            fbq('track', 'PageView');
           `}
         </Script>
 
@@ -58,7 +58,7 @@ export default function RootLayout({children}: {children: React.ReactNode}) {
       <body className="font-sans antialiased bg-white text-gray-900" suppressHydrationWarning>
         <noscript>
           <img height="1" width="1" style={{ display: 'none' }}
-            src="https://www.facebook.com/tr?id=1552487645813151&ev=PageView&noscript=1"
+            src="https://www.facebook.com/tr?id=2412593309204023&ev=PageView&noscript=1"
             />
         </noscript>
         {children}
